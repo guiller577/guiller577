@@ -17,4 +17,4 @@ PHP | SQL | Power BI | Python | Git | 4Js
 ## 📫 Contacto
 
 📧 guillemorel577@gmail.com  
-🔗 LinkedIn: linkedin.com/in/guiller577-dev
+🔗 LinkedIn: www.linkedin.com/in/guiller577-dev
